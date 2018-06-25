@@ -1,4 +1,10 @@
 p {
 	align:left;
-	width:250px;
+	width:75%;
+	min-height: 50px;
+	margin: 20px auto;
+	border: 1px groove black;
+	padding: 1em;
+	border-radius: 10px;
+	box-shadow: 10px 10px rgba(0, 0, 0, 0.3);
 }
